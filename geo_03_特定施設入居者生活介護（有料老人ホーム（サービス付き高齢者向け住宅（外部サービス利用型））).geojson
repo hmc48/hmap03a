@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_03_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅（外部サービス利用型））)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅ゆうあいの街【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅（外部サービス利用型））)】岩手県盛岡市北飯岡1丁目2-25", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=370105231-00&ServiceCd=&Type=search", "url2": "http://www.yu-ai.net" }, "geometry": { "type": "Point", "coordinates": [ 141.132689199999987, 39.6799661 ] } }
+]
+}

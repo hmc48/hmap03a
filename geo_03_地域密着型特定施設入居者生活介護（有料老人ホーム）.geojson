@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "geo_03_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "愛福祉会にいさと介護付有料老人ホーム【地域密着型特定施設入居者生活介護（有料老人ホーム）】岩手県宮古市刈屋第12地割3番地", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=390200020-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.758639825131013, 39.646052387941701 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付き有料老人ホームシルバーホームほっと東館【地域密着型特定施設入居者生活介護（有料老人ホーム）】岩手県北上市和賀町岩崎1-114", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=390600088-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 140.9849806, 39.2405856 ] } },
+{ "type": "Feature", "properties": { "内容": "介護付有料老人ホーム和【地域密着型特定施設入居者生活介護（有料老人ホーム）】岩手県九戸郡洋野町中野第５地割７５番地", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=393100193-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.773057599999987, 40.3038788 ] } }
+]
+}

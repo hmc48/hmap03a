@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "geo_03_短期入所療養介護（介護医療院）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "介護医療院おいかわ内科クリニック【短期入所療養介護（介護医療院）】岩手県盛岡市上田1丁目18番46号", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=03B0100019-00&ServiceCd=551&Type=search", "url2": "http://www.o-med.net" }, "geometry": { "type": "Point", "coordinates": [ 141.140857, 39.711036 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院とおやま【短期入所療養介護（介護医療院）】岩手県盛岡市下ノ橋町６－１４", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=03B0100035-00&ServiceCd=551&Type=search", "url2": "http://www.toyama-byouin.jp" }, "geometry": { "type": "Point", "coordinates": [ 141.149081200000012, 39.6971554 ] } },
+{ "type": "Feature", "properties": { "内容": "介護医療院フォーユーみたけ【短期入所療養介護（介護医療院）】岩手県盛岡市みたけ3丁目11番36号", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=03B0100068-00&ServiceCd=551&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.113724600000012, 39.738143 ] } },
+{ "type": "Feature", "properties": { "内容": "イーハトーブ介護医療院【短期入所療養介護（介護医療院）】岩手県花巻市湯口字志戸平14番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=03B0500010-00&ServiceCd=551&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.012503400000014, 39.4189846 ] } },
+{ "type": "Feature", "properties": { "内容": "久慈恵愛病院介護医療院【短期入所療養介護（介護医療院）】岩手県久慈市湊町第17地割100番地", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=03B0700016-00&ServiceCd=551&Type=search", "url2": "https://kujikeiai.jimdofree.com/" }, "geometry": { "type": "Point", "coordinates": [ 141.790215100000012, 40.2004865 ] } }
+]
+}

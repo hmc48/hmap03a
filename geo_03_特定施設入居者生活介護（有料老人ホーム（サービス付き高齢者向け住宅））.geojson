@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "geo_03_特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅ゆうあいの街【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岩手県盛岡市北飯岡1丁目2-25", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=370105231-00&ServiceCd=&Type=search", "url2": "http://www.yu-ai.net" }, "geometry": { "type": "Point", "coordinates": [ 141.1332032, 39.6792493 ] } },
+{ "type": "Feature", "properties": { "内容": "エイジングホーム健寿庵【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岩手県盛岡市下太田沢田22番地15エイジングホーム健寿庵", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=370106684-00&ServiceCd=&Type=search", "url2": "https://airinkai.net" }, "geometry": { "type": "Point", "coordinates": [ 141.113557, 39.6987493 ] } },
+{ "type": "Feature", "properties": { "内容": "特定施設入居者生活介護事業所安親館【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岩手県奥州市江刺愛宕字観音堂沖400番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=371500240-00&ServiceCd=&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.171363284655996, 39.182962062944199 ] } },
+{ "type": "Feature", "properties": { "内容": "サービス付き高齢者向け住宅反町の郷【特定施設入居者生活介護（有料老人ホーム（サービス付き高齢者向け住宅））】岩手県奥州市江刺岩谷堂字反町361番地1反町福祉パーク反町の郷", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=371501248-00&ServiceCd=&Type=search", "url2": "http://www.esashijyuseikai.or.jp" }, "geometry": { "type": "Point", "coordinates": [ 141.184472, 39.1823755 ] } }
+]
+}

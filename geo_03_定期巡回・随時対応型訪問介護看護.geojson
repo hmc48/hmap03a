@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_03_定期巡回・随時対応型訪問介護看護",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "みんなのものがたり【定期巡回・随時対応型訪問介護看護】岩手県盛岡市南青山町4－15サウザ南青山A棟", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=390100378-00&ServiceCd=760&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.1388248, 39.6777415 ] } },
+{ "type": "Feature", "properties": { "内容": "やさしい手盛岡津志田定期巡回随時対応型訪問介護看護事業所【定期巡回・随時対応型訪問介護看護】岩手県盛岡市津志田26-9-10やさしえ盛岡津志田", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=390100253-00&ServiceCd=760&Type=search", "url2": "http://www.yasashiite.com/" }, "geometry": { "type": "Point", "coordinates": [ 141.1576484, 39.6707178 ] } },
+{ "type": "Feature", "properties": { "内容": "エスコート定期巡回・随時対応型訪問介護看護ステーション【定期巡回・随時対応型訪問介護看護】岩手県盛岡市みたけ2丁目10-70ナーシングホームもりおか", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=390100741-00&ServiceCd=760&Type=search", "url2": "http://life-escort.com/teikijunkai/" }, "geometry": { "type": "Point", "coordinates": [ 141.127713698148, 39.744119409482998 ] } },
+{ "type": "Feature", "properties": { "内容": "日高見ヘルパーステーション【定期巡回・随時対応型訪問介護看護】岩手県北上市北鬼柳22-46", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=390600179-00&ServiceCd=760&Type=search", "url2": "http://www.keiwakai.info" }, "geometry": { "type": "Point", "coordinates": [ 141.0980698, 39.292761 ] } },
+{ "type": "Feature", "properties": { "内容": "ゆたかっ子指定定期巡回・随時対応型訪問介護看護事業所【定期巡回・随時対応型訪問介護看護】岩手県奥州市胆沢若柳字下松原28番地3", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=391500345-00&ServiceCd=760&Type=search", "url2": "http://www.yutaka-oshu.com" }, "geometry": { "type": "Point", "coordinates": [ 141.064628195106991, 39.1321401839704 ] } },
+{ "type": "Feature", "properties": { "内容": "定期巡回随時対応型訪問介護・看護ひまわり【定期巡回・随時対応型訪問介護看護】岩手県岩手郡雫石町柿木５番地４", "url": "https://www.kaigokensaku.mhlw.go.jp/03/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=392100145-00&ServiceCd=760&Type=search", "url2": "http://www.kouwa.iwate.jp" }, "geometry": { "type": "Point", "coordinates": [ 140.9634432, 39.7056975 ] } }
+]
+}
